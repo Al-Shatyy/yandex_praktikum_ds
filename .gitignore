@@ -1,0 +1,4 @@
+**/source.ipynb
+original/
+.ipynb_checkpoints/
+*.txt
