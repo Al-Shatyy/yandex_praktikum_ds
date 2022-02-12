@@ -3,3 +3,4 @@ original/
 .ipynb_checkpoints/
 *.txt
 catboost_info/
+datasets/
